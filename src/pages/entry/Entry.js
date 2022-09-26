@@ -42,7 +42,7 @@ const handleOnResetSubmit = (e) => {
   if(!email) {
     return alert("Please enter your email!")
   }
-  // Todo - Call api to submit the form
+  // Todo - Call api to Reset Password
   console.log(email, password);
 }
 

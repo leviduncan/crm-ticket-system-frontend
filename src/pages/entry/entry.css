@@ -1,0 +1,16 @@
+.entry-page {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbotron {
+    padding: 3rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+}
+
+.form-box {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.39);
+}
